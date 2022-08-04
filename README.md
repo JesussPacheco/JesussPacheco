@@ -2,7 +2,7 @@
 #### Jr Software Developer
 ![Jr Software Developer](https://i.pinimg.com/originals/46/9b/56/469b56b2cb73b46e5866a2454df2260b.png)
 
-Sixth cycle student of software engineering at UPC
+seventh cycle student of software engineering at UPC
 
 
 Skills: C++/PYTHON/C#/JS/JAVA/TYPESCRIPT/NODE.JS/VUE JS / Angular /JS / HTML / CSS
