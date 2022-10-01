@@ -5,7 +5,7 @@
 seventh cycle student of software engineering at UPC
 
 
-Skills: C++/PYTHON/C#/JS/JAVA/TYPESCRIPT/NODE.JS/VUE JS / Angular /JS / HTML / CSS
+Skills: C++/PYTHON/C#/JS/JAVA/TYPESCRIPT/NODE.JS/VUE JS / Angular /JS / HTML / CSS/ React
 
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: Yisus 
