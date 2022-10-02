@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jesús Pacheco
-#### Jr Software Developer
+#### Software Engineer Trainee
 ![Jr Software Developer](https://i.pinimg.com/originals/46/9b/56/469b56b2cb73b46e5866a2454df2260b.png)
 
 seventh cycle student of software engineering at UPC
