@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jesús Pacheco
-#### Software Engineer Trainee
+#### Software Engineer 
 ![Jr Software Developer](https://i.pinimg.com/originals/46/9b/56/469b56b2cb73b46e5866a2454df2260b.png)
 
 Skills: C++/PYTHON/C#/JS/JAVA/TYPESCRIPT/NODE.JS/VUE JS / Angular /JS / HTML / CSS/ React
