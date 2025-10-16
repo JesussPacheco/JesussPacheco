@@ -1,18 +1,46 @@
-### Hi there 👋, my name is Jesús Pacheco
-#### Software Engineer 
-![Jr Software Developer](https://i.pinimg.com/originals/46/9b/56/469b56b2cb73b46e5866a2454df2260b.png)
+# Hey, I'm Jesús 👋
 
-Skills: C++/PYTHON/C#/JS/JAVA/TYPESCRIPT/NODE.JS/VUE JS / Angular /JS / HTML / CSS/ React
+**Backend Engineer** building distributed systems and trying to write code that doesn't make future-me cry.
 
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: Yisus 
+When I'm not debugging microservices, you'll find me playing guitar, hanging out with friends, or attempting to be a gym regular (emphasis on "attempting").
 
+## What I Build
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JesussPacheco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jesús-pacheco//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvcm1rLhmbSzEAzPjcCHLzA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](jesuspacheco0219@gmail.com)  
+Backend systems that scale and don't fall apart when production hits. Distributed architectures, event-driven designs, and microservices that make sense.
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+My sweet spot: systems where performance matters and downtime isn't an option.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesussPacheco)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesussPacheco&show_icons=true)  
+**Backend (where I live):**
+- Java 17/21, Spring Boot, Spring WebFlux
+- Microservices, REST APIs, Event-Driven Architecture
+- Kafka, Redis
+- PostgreSQL, MySQL, MongoDB
+- Docker, Kubernetes, AWS, Azure
 
+**Frontend (enough to be useful):**
+- React, TypeScript, Next.js
+- Vue.js when needed
+
+**Fundamentals:**
+- Data Structures & Algorithms (Competitive Programming Background)
+- System Design, DDD, Clean Architecture
+- C++ for the tough stuff
+
+## Currently
+
+Still getting better at distributed systems, sharpening my Java + Spring skills, and learning from both startup chaos and enterprise structure. Always experimenting with something new on the side.
+
+Open to connecting with other devs who enjoy solving hard problems and sharing war stories from production incidents.
+
+## Let's Connect
+
+Down to talk about architecture decisions, share debugging nightmares, or just swap memes.
+
+- 📧 jesuspacheco0219@gmail.com
+- 🌍 Lima, Peru (remote-friendly)
+
+---
+
+*"Good code works. Great code works and you can read it 6 months later."*
